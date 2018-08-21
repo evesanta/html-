@@ -1,0 +1,18 @@
+h1 {
+  color: green;
+}
+
+h2 {
+  color: blue;
+}
+
+ul {
+  width: 100px;
+  list-style:none;
+}
+
+ul li {
+  text-align: center;
+  background-color: #DFB;
+  margin-top: 10px;
+}
